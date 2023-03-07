@@ -15,7 +15,7 @@
 2.  Using GitHub to host your static website
 
 ## Prerequisites
----
+
 ### There are few prerequisites needed before you start 
 
 ##### 1.  GitHub account
