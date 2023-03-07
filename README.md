@@ -26,5 +26,4 @@
    1. [Markdown guide](https://www.markdownguide.org/)
    2. [Markdown tutorial](https://www.markdowntutorial.com/) **_Recommended_** 
    3. [CommonMark tutorial](https://commonmark.org/help/tutorial/) 
-   4. 
 **_If you are struggling to find a free markdown editor,  [Obsidian](https://obsidian.md/) is completely free and it is very easy to use_**
