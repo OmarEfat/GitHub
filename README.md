@@ -1,12 +1,12 @@
 # Hosting Resume On GitHub Pages
 
----
+
 
 ###### Learn how to host your resume on Github page
 
 
 ## Purpose
----
+
 #### The purpose of this article is to show how to houst your resume on Github using one of the static generator available like [Jekyll](https://jekyllrb.com/).
 
 
