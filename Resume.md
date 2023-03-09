@@ -1,5 +1,5 @@
 # Omar Taha
-<div style="align-items = center">
+<div>
 ###### 431-337-6193
 ###### tahao@myumanitoba.ca
 ###### [Linkedin](https://www.linkedin.com/in/omar-effat/)
