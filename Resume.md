@@ -1,14 +1,13 @@
-# Omar Taha
-###### 431-337-6193
-###### tahao@myumanitoba.ca
-###### [Linkedin](https://www.linkedin.com/in/omar-effat/)
-###### [Website](https://omarefat.github.io/MyWebsite/)
+<h1 style="text-align: center;">Omar Taha</h1>
+
+#### 431-337-6193 | tahao@myumanitoba.ca | [Linkedin](https://www.linkedin.com/in/omar-effat/) | [Website](https://omarefat.github.io/MyWebsite/)
+
 ## Education
 --- 
 ##### Bachelor of Computer Science Major (Co-op option)
 Winter 2020 - Present
 
-**Courses completed**: Data Structure, Database, Object-Oriented Programming, Human Computer Interaction, Computer Graphics, Analysis of Algorithms, Artificial Intelligence, Computer Systems
+**Courses completed:** Data Structure, Database, Object-Oriented Programming, Human Computer Interaction, Computer Graphics, Analysis of Algorithms, Artificial Intelligence
 
 **Currently enrolled**: Software Engineering, Database Implementation, Technical Writing in Computer Science
 
@@ -38,4 +37,30 @@ Winter 2020 - Present
 
 ## Work Experience
 ---
-* **Logistics Analyst - Summer Studet**
+* **Grader/Marker COMP 1020**  (University of Manitoba)
+
+   January 2023 - Present
+  - Grade Java assignments submitted by students, given a criteria and providing students with constructive feedback.
+  - Utilize online grading tools to track and record students’ progress, grades and feedback.
+  - Participate in meetings with the course instructor to discuss grading strategies and student progress.
+  - Manage time effectively, work independently, and meet deadlines to fulfill responsibilities as a Grader.
+
+&nbsp;
+
+* **Logistics Analyst – Summer Student**  (Frontier Supply Chain)
+
+   May 2022 - August 2022
+  - Monitored movement of 200 freights per day and followed up with the courier until confirming their delivery.
+  - Created a spreadsheet using Microsoft Excel to analyze shipment status and calculate the rate of on-time delivery.
+  - Developed a faster daily work routine that increased the rate of shipments tracked by 150% per day.
+  - rained a new employee in the last week of the term for the same role and provided a flowchart of the work routine.
+
+
+  &nbsp;
+
+* **Data Entry and Data Quality Team Member**  (Staffmax- SharedHealth)
+
+   September 2021 - January 2022
+  - Accurately entered over 400 of clients’ immunization consent forms into database systems.
+  - Assisted with resolutions of any issues related to clients’ immunization records or clients’ profiles.
+  - Communicated with clients and healthcare providers to obtain missing or updated immunization information.
