@@ -3,7 +3,7 @@
 
 ## Purpose
 
-#### The purpose of this article is to show how to host your resume on Github using one of the static generator available like [Jekyll](https://jekyllrb.com/).
+#### The purpose of this tutorial is to show how to host your resume on Github using one of the static generator available like [Jekyll](https://jekyllrb.com/).
 
 
 #### Main goals:
@@ -22,7 +22,7 @@
    - [Here are good tips for writing a perfect resume](https://www.jobbank.gc.ca/findajob/resources/write-good-resume)
 
 ##### 3. Markdown text editor
- * In this tutorial, [VS studio code](https://code.visualstudio.com/) will be used
+ * In this tutorial, [VS studio code](https://code.visualstudio.com/) will b used
 
    
 **_If you are struggling to find a free markdown editor,  [Obsidian](https://obsidian.md/) is completely free and it is very easy to use_**
@@ -77,3 +77,39 @@ Now after installing Jekyll, we can start building a Jekyll site
   
   4. You will get a link for the localhost port that your generated website is uploaded on, you will copy/paste this link to your browser
     ![New website](host-server.gif)
+
+
+&nbsp;
+
+# Building website
+
+Now we have setup everything! It's the time to build your website.
+
+1. Choosing your website theme 
+   - Visit [rubygems.org](https://rubygems.org/).
+   - Write on the search jekyll-theme-"then here write your theme"
+   ![jekyll theme](jekyll-theme.gif)
+   
+
+2. Open the Jekyll folder that we have created already ``` On your Visual Studio Code: File > Open Folder > Select the folder  ``` 
+
+**You can then customize the design and the layout of your generated website, but for our example, I will use a built-in theme**
+
+3. We can now clone the repository theme that we have found on step 1. Keep on mind that there are few themes that can be deployed as a GitHub pages, [click here](https://pages.github.com/themes/) to know more about supported themes.
+   - Clone the theme repository
+      - Copy the repository link from Github
+      - Go to Visual Studio, select Clone from Git
+      - Select the folder in your local device to save the cloned repository
+   - Install the packages for the theme
+      - Open the terminal through Terminal > New Terminal
+      -  Write the following command  ```bundle install```
+   - Compile the website
+     - On the same terminal, write the following command ```bundle exec jekyll serve```
+   - Your themed website will be hosted on the local server, copy the link and paste it in your browser.
+
+
+Here is more illustration for the process mentioned above:
+   ![clone-website](clone.gif)
+
+
+
