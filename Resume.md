@@ -1,10 +1,8 @@
 # Omar Taha
-<div>
 ###### 431-337-6193
 ###### tahao@myumanitoba.ca
 ###### [Linkedin](https://www.linkedin.com/in/omar-effat/)
 ###### [Website](https://omarefat.github.io/MyWebsite/)
-</div>
 ## Education
 --- 
 ##### Bachelor of Computer Science Major (Co-op option)
