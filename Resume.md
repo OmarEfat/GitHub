@@ -25,14 +25,14 @@ Winter 2020 - Present
 * **Know Your Major** 
   * Developed a web-based prototype as part of a group project to assist students in tracking degree requirements and creating personalized academic schedules.
   * Tools used: **HTML, CSS, and JavaScript**
-* COVID-19 cases API
+* **COVID-19 cases API**
   * Developed a live COVID-19 tracking API using NodeJS, providing data on the number of cases by country and globally.
   * Tools used: **NodeJS**
   * https://github.com/OmarEfat/Web-Scrapping
 * **CMath**
- *  Developed an open-source C library for complex mathematical equation solving, as part of a team project, to assist developers.
- *  Tools used: **C and CMake.**
- *  https://github.com/JayedRafiProjects/cmath.c
+  *  Developed an open-source C library for complex mathematical equation solving, as part of a team project, to assist developers.
+  *  Tools used: **C and CMake.**
+  *  https://github.com/JayedRafiProjects/cmath.c
 
 
 ## Work Experience
@@ -64,3 +64,23 @@ Winter 2020 - Present
   - Accurately entered over 400 of clients’ immunization consent forms into database systems.
   - Assisted with resolutions of any issues related to clients’ immunization records or clients’ profiles.
   - Communicated with clients and healthcare providers to obtain missing or updated immunization information.
+
+
+    &nbsp;
+
+* **Technical Support Representative**  (CanTalk Winnipeg)
+
+   June 2021 - September 2021
+  - Handled more than 50 calls per day, while resolving customer concerns efficiently to ensure customer satisfaction.
+  - Used scripts and technical expertise to resolve online reservation issues for Six Flags, our main cliet, including account creation, ticket purchasing, and park access, resulting in high customer satisfaction.
+  - Guided customers through the steps required to complete tasks and make reservations online.
+  - Escalated urgent and technical issues to the appropriate team for further resolution.
+
+
+## Volunteer
+---
+* **Science Students’ Association Peer Mentor**  (University of Manitoba)
+* **International Student Mentor**  (University of Manitoba)
+* **Math Tutor**  (Frontier College)
+
+
