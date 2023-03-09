@@ -1,6 +1,3 @@
----
-layout: default
----
 <h1 style="text-align: center;">Omar Taha</h1>
 
 #### 431-337-6193 | tahao@myumanitoba.ca | [Linkedin](https://www.linkedin.com/in/omar-effat/) | [Website](https://omarefat.github.io/MyWebsite/)
