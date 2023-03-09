@@ -38,5 +38,4 @@ Currently enrolled: Software Engineering, Database Implementation, Technical Wri
 
 ## Work Experience
 ---
-* **Logistics Analyst**
-  - 
+* **Logistics Analyst - Summer Studet**
