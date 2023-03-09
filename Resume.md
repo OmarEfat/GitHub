@@ -9,7 +9,7 @@
 ##### Bachelor of Computer Science Major (Co-op option)
 Winter 2020 - Present
 
-**Courses completed**: Data Structure, Database, Object-Oriented Programming, Human Computer Interaction, Computer Graphics, Analysis of Algorithms
+**Courses completed**: Data Structure, Database, Object-Oriented Programming, Human Computer Interaction, Computer Graphics, Analysis of Algorithms, Artificial Intelligence, Computer Systems
 
 **Currently enrolled**: Software Engineering, Database Implementation, Technical Writing in Computer Science
 
